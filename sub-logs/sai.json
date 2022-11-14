@@ -1,0 +1,17 @@
+{
+  "repo": "https://github.com/swhn/is-a-good-dev",
+
+  "owner": {
+    "username": "swhn",
+    "email": "saiwaihlyanhtun@gmail.com"
+  },
+
+  "target": {
+    "record-type": {
+       "name": "sai", 
+       "value": "swhn.github.io"
+     }
+  },
+
+  "proxied": false
+}
